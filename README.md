@@ -10,7 +10,7 @@ pkg install curl
 
 pkg install ruby
 
-git clone https://github.com/gihan2003/Whatsapp_Spam.git
+git clone https://github.com/gihan2003/WhatsappSpam.git
 
 cd WhatsappSPAM 
 
@@ -18,16 +18,16 @@ bash spam.sh
 
 # Welcome To SL Tech Podda Youtube Channel
 
-                                   �� Disclaimer �
+                                   ’¢ Disclaimer ðŸ
 
-📛Join Facebook page
+ðŸ“›Join Facebook page
      https://www.facebook.com/SL-TECH-PODDA-100985485169584/
 
-📛Follow Us On Instagram 
+ðŸ“›Follow Us On Instagram 
     
 https://www.instagram.com/invites/contact/?i=1k0fy9kq36dro&utm_content=l0bs4wq
 
-📛Subscribe My youtube Channel
+ðŸ“›Subscribe My youtube Channel
     https://www.youtube.com/channel/UClNqEbsGgI6pDj9k0g3gtzg/featured
 
 
